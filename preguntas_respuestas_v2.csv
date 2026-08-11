@@ -1,0 +1,106 @@
+﻿Estacion,Numero,Pregunta,Opciones,Respuesta Correcta (Letra),Respuesta Correcta (Nominal),Frecuencia de Respuesta
+1,1,Which term describes the anatomical region of the wrist?,A. plantar; B. palmar; C. antebrachial; D. carpal,D,carpal,Única
+1,2,What is the regional term for the anatomical location of the ear?,A. buccal; B. nasal; C. otic; D. orbital/optic/ocular,C,otic,Única
+1,3,Which term refers to the anatomical structure located at the head region of the body?,A. cephalic; B. femoral; C. brachial; D. sural,A,cephalic,Única
+1,4,Identify the anatomical term for the anterior surface of the knee.,A. crural; B. patellar; C. tarsal; D. digital,B,patellar,Única
+2,5,Identify the anatomical term for the hollow at the back of the knee.,A. femoral; B. popliteal; C. gluteal; D. sacral,B,popliteal,Única
+2,6,What is the regional term for the chin?,A. frontal; B. axillary; C. mental; D. costal,C,mental,Única
+2,7,Which anatomical term refers to this region of the chest?,A. sternal; B. vertebral; C. cervical; D. occipital,A,sternal,Única
+2,8,Which term describes the anatomical region of the forearm?,A. brachial; B. acromial; C. antecubital; D. antebrachial,D,antebrachial,Única
+3,9,Which term describes the anatomical region of the leg?,A. sural; B. femoral; C. patellar; D. crural,D,crural,Única
+3,10,Identify the anatomical term for the groin region.,A. genital; B. inguinal; C. perineal; D. coxal,B,inguinal,Única
+3,11,Which term refers to the fingers and toes?,A. digital; B. carpal; C. tarsal; D. pedal,A,digital,Única
+3,12,What is the regional term for the back of the head?,A. frontal; B. cervical; C. occipital; D. cephalic,C,occipital,Única
+4,13,Identify the anatomical term for the ankle.,A. carpal; B. tarsal; C. digital; D. pedal,B,tarsal,Única
+4,14,What is the regional term for the lower back?,A. sacral; B. dorsal; C. lumbar; D. vertebral,C,lumbar,Única
+4,15,Which anatomical term refers to the cheek?,A. buccal; B. oral; C. nasal; D. mental,A,buccal,Única
+5,16,Which body cavity houses the brain?,A. cranial cavity; B. thoracic cavity; C. nasal cavity; D. Oral cavity,A,cranial cavity,Única
+5,17,Which cavity specifically houses the heart?,A. thoracic cavity; B. Ventral cavity; C. Dorsal cavity; D. pericardial cavity,D,pericardial cavity,Única
+5,18,What is the specific cavity that surrounds each lung?,A. mediastinum; B. pericardial cavity; C. pleural cavity; D. Orbital/optic cavity,C,pleural cavity,Única
+5,19,Identify the cavity that contains the spinal cord.,A. pericardial cavity; B. vertebral cavity; C. pleural cavity; D. abdominal cavity,B,vertebral cavity,Única
+6,20,Identify the cavity that houses the bladder and reproductive organs.,A. thoracic cavity; B. pelvic cavity; C. mediastinum; D. abdominopelvic cavity,B,pelvic cavity,Única
+6,21,What cavity is located superior on the head responsible for the olfaction special sense?,A. Ventral cavity; B. abdominal cavity; C. thoracic cavity; D. nasal cavity,D,nasal cavity,Única
+6,22,Which cavity contains the stomach and liver?,A. abdominal cavity; B. pelvic cavity; C. cranial cavity; D. vertebral cavity,A,abdominal cavity,Única
+7,23,Which quadrant typically contains the appendix?,A. left upper; B. left lower; C. right lower; D. right upper,C,right lower,Única
+7,24,Identify the quadrant where the descending colon and sigmoid colon are primarily located.,A. right upper; B. left lower; C. right lower; D. left upper,B,left lower,Única
+7,25,Which abdominopelvic quadrant contains the liver and gallbladder?,A. right upper; B. left upper; C. right lower; D. left lower,A,right upper,Única
+7,26,Which abdominal quadrant houses the stomach and spleen?,A. right upper; B. left lower; C. right lower; D. left upper,D,left upper,Única
+8,27,Identify this abdominal region:,A. left iliac/inguinal; B. right lumbar/lateral; C. left lumbar/lateral; D. right iliac/inguinal,?,[Imagen no disponible en el archivo],Sin determinar
+8,28,Which abdominopelvic region is located immediately superior to the umbilicus?,A. epigastric; B. hypogastric/pubic; C. right hypochondriac; D. left hypochondriac,A,epigastric,Única
+8,29,Which region is located inferior to the umbilical region?,A. umbilical; B. epigastric; C. Hypogastric/pubic; D. right hypochondriac,C,hypogastric/pubilc,Única
+9,30,Identify this anatomical region.,A. epigastric; B. Hypogastric/pubic; C. umbilical; D. right iliac/inguinal,?,[Imagen no disponible en el archivo],Sin determinar
+9,31,Identify this anatomical region.,A. right hypochondriac; B. left hypochondriac; C. left lumbar/lateral; D. right lumbar/lateral,?,[Imagen no disponible en el archivo],Sin determinar
+9,32,Identify this anatomical region.,A. left lumbar/lateral; B. right iliac/inguinal; C. left iliac/inguinal; D. right lumbar/lateral,?,[Imagen no disponible en el archivo],Sin determinar
+10,33,The mid-sagittal plane…,A. divides the body exactly into equal right and left halves.; B. divides the body in superior and inferior; C. divides the body in anterior and posterior; D. divides a cylindrical organ horizontally.,A,divides the body exactly into equal right and left halves,Única
+10,34,Identify the plane that divides the body into anterior and posterior portions.,A. midsagittal plane; B. frontal (coronal) plane; C. parasagittal plane; D. oblique section,B,frontal (coronal) plane,Única
+10,35,Which plane divides the body into right and left portions?,A. parasagittal plane; B. frontal (coronal) plane; C. transverse (horizontal); D. cross section,A,parasagittal plane,Repetida (2 veces)
+10,36,What plane divides the body into superior and inferior portions?,A. longitudinal section; B. cross section; C. transverse (horizontal); D. frontal (coronal) plane,C,transverse (horizontal),Única
+11,37,Identify the term for a cut made perpendicular to the long axis of an organ.,A. longitudinal section; B. cross section; C. oblique section; D. frontal (coronal) plane,B,cross section,Única
+11,38,What type of section is cut along the long axis of an organ?,A. cross section; B. transverse (horizontal); C. longitudinal section; D. sagittal (median) plane,C,longitudinal section,Única
+11,39,Which plane divides the body into unequal right and left portions?,A. parasagittal plane; B. midsagittal plane; C. sagittal (median) plane; D. transverse (horizontal),A,parasagittal plane,Repetida (2 veces)
+12,40,Which term describes the measure of hydrogen ion concentration in a solution?,A. pH; B. Acid; C. Base; D. Electrolytes,A,pH,Única
+12,41,Identify the substance that releases hydrogen ions into a solution.,A. Base; B. Acid; C. Buffer; D. Ions,B,Acid,Única
+12,42,"What substance accepts hydrogen ions, thereby lowering the acidity of a solution?",A. Acid; B. pH; C. Ions; D. Base,D,Base,Repetida (2 veces)
+13,43,Charged particles formed when electrolytes dissociate are known as what?,A. Buffer; B. pH; C. Acid; D. Ions,D,Ions,Única
+13,44,"What is the term for substances that dissociate in water to form ions, thereby conducting electricity?",A. pH; B. Base; C. Electrolytes; D. Buffer,C,Electrolytes,Única
+13,45,Which substance helps maintain a stable pH in the body by neutralizing excess acids or bases?,A. Buffer; B. Ions; C. Electrolytes; D. Acid,A,Buffer,Única
+14,46,Identify the lenses attached to the revolving nosepiece that provide different magnifications of the specimen.,"A. eyepiece (ocular lens); B. objective lenses (scan, low, high); C. cover slip; D. mechanical stage",B,"objective lenses (scan, low, high)",Única
+14,47,Which knob is used for precise focusing of the specimen under high magnification?,A. coarse adjustment knob; B. substage disc; C. fine adjustment knob; D. base,C,fine adjustment knob,Única
+14,48,What part holds the microscopic slide and allows for smooth movement of the specimen?,A. stage; B. body; C. arm; D. mechanical stage,D,mechanical stage,Única
+14,49,Which part of the microscope is used to view the specimen and is located at the top of the body tube?,"A. eyepiece (ocular lens); B. objective lenses (scan, low, high); C. stage; D. substage lamp",A,eyepiece (ocular lens),Única
+15,50,What component provides the light source needed to illuminate the specimen?,"A. eyepiece (ocular lens); B. objective lenses (scan, low, high); C. cover slip; D. substage lamp",D,substage lamp,Única
+15,51,Which part provides support for the microscope and rests on the table?,A. arm; B. base; C. body; D. stage,B,base,Repetida (2 veces)
+15,52,Identify the rotating part of the microscope that holds the objective lenses.,A. mechanical stage; B. substage disc; C. nosepiece; D. fine adjustment knob,C,nosepiece,Única
+16,53,Identify the term for the ability of a microscope to distinguish two closely positioned objects as separate.,A. total magnification; B. resolution; C. base; D. coarse adjustment knob,B,resolution,Única
+16,54,"Which term describes the final enlargement of an object, calculated by multiplying the eyepiece and objective lens powers?",A. total magnification; B. resolution; C. stage; D. nosepiece,A,total magnification,Única
+16,55,What is the flat glass plate on which the specimen is placed for viewing?,A. cover slip; B. stage; C. microscopic slide; D. body,C,microscopic slide,Única
+17,56,Which organelle is responsible for producing ATP through cellular respiration?,A. endoplasmic reticulum; B. ribosome; C. mitochondria; D. peroxisome,C,mitochondria,Única
+17,57,Which organelle forms the outer boundary of the cell and regulates what enters and exits?,A. cell membrane; B. nucleus; C. cytoplasm; D. lysosome,A,cell membrane,Única
+17,58,Identify the organelle that contains the cell's genetic material and controls cellular activities.,A. nucleolus; B. nucleus; C. mitochondria; D. Golgi apparatus,B,nucleus,Única
+17,59,"What organelle modifies, sorts, and packages proteins for secretion?",A. lysosome; B. centrosome / centriole; C. cell membrane; D. Golgi apparatus,D,Golgi apparatus,Única
+18,60,Identify the organelle that serves as the site of protein synthesis.,A. smooth; B. ribosome; C. rough; D. DNA,B,ribosome,Única
+18,61,What organelle organizes the microtubules during cell division?,A. flagella; B. cytoplasm; C. cilia; D. centrosome / centriole,D,centrosome / centriole,Única
+18,62,Which network of membranes is involved in protein and lipid synthesis?,A. endoplasmic reticulum; B. nuclear envelope; C. chromatin / chromosome; D. cilia,A,endoplasmic reticulum,Única
+18,63,Which organelle contains digestive enzymes to break down waste materials and cellular debris?,A. peroxisome; B. mitochondria; C. lysosome; D. nucleolus,C,lysosome,Única
+19,64,What is the jelly-like substance inside the cell that surrounds the organelles?,A. cell membrane; B. nucleus; C. cytoplasm; D. lysosome,C,cytoplasm,Única
+19,65,Identify the molecule that carries the genetic instructions for life.,A. chromatin / chromosome; B. DNA; C. nucleolus; D. cytoplasm,B,DNA,Única
+19,66,Which double membrane surrounds the nucleus?,A. nuclear envelope; B. cell membrane; C. endoplasmic reticulum; D. Golgi apparatus,A,nuclear envelope,Única
+20,67,Which structure within the nucleus is responsible for producing ribosomal RNA?,A. chromatin / chromosome; B. DNA; C. centrosome / centriole; D. nucleolus,D,nucleolus,Única
+20,68,Identify the type of endoplasmic reticulum involved in lipid synthesis and lacks ribosomes.,A. rough; B. smooth; C. nuclear envelope; D. cell membrane,B,smooth,Repetida (2 veces)
+20,69,Which type of endoplasmic reticulum has ribosomes attached to its surface?,A. rough; B. smooth; C. endoplasmic reticulum; D. Golgi apparatus,A,rough,Única
+21,70,In which phase do the chromosomes arrive at the poles and begin to decondense?,A. anaphase; B. metaphase; C. prophase; D. telophase,D,telophase,Única
+21,71,Which phase of mitosis is characterized by the condensation of chromatin into visible chromosomes?,A. prophase; B. metaphase; C. anaphase; D. telophase,A,prophase,Única
+21,72,Which phase is characterized by the separation of sister chromatids toward opposite poles?,A. metaphase; B. prophase; C. anaphase; D. telophase,C,anaphase,Única
+21,73,Identify the stage where chromosomes line up at the cell's equator.,A. prophase; B. metaphase; C. anaphase; D. telophase,B,metaphase,Única
+22,74,Identify the process where the cytoplasm divides to form two separate cells.,A. Interphase; B. Cytokinesis; C. Mitosis; D. 2 daughter cells,B,Cytokinesis,Única
+22,75,What is the term for one half of a duplicated chromosome?,A. centromere; B. spindle apparatus; C. chromatid; D. Mitosis,C,chromatid,Única
+22,76,Which stage of the cell cycle precedes mitosis and includes DNA replication?,A. Interphase; B. Mitosis; C. Cytokinesis; D. 1 parent cell,A,Interphase,Única
+22,77,Which structure holds the sister chromatids together?,A. chromatid; B. spindle apparatus; C. 1 parent cell; D. centromere,D,centromere,Única
+23,78,Which structure is responsible for moving the chromosomes during cell division?,A. spindle apparatus; B. centromere; C. chromatid; D. Cytokinesis,A,spindle apparatus,Única
+23,79,What is the result of mitosis and cytokinesis?,A. 1 parent cell; B. Interphase; C. 2 daughter cells; D. prophase,C,2 daughter cells,Única
+23,80,Which process involves the division of the nucleus?,A. Cytokinesis; B. Interphase; C. metaphase; D. Mitosis,D,Mitosis,Única
+23,81,Identify the cell that undergoes division to produce daughter cells.,A. 2 daughter cells; B. 1 parent cell; C. Interphase; D. Mitosis,B,1 parent cell,Única
+24,82,Which process forces water and solutes through a membrane by hydrostatic pressure?,A. diffusion; B. osmosis; C. filtration; D. hypotonic,C,filtration,Única
+24,83,What term describes a solution with the same solute concentration as the cell?,A. hypertonic; B. hypotonic; C. lysis; D. isotonic,D,isotonic,Única
+24,84,Identify the diffusion of water across a selectively permeable membrane.,A. diffusion; B. osmosis; C. filtration; D. hypertonic,B,osmosis,Única
+24,85,Which process describes the movement of molecules from an area of high concentration to low concentration?,A. diffusion; B. osmosis; C. filtration; D. isotonic,A,diffusion,Única
+25,86,Which type of solution causes a cell to swell and potentially burst?,A. hypotonic; B. isotonic; C. hypertonic; D. crenation,A,hypotonic,Única
+25,87,What is the term for the shrinkage of red blood cells in a hypertonic solution?,A. lysis; B. filtration; C. crenation; D. diffusion,C,crenation,Única
+25,88,Identify the solution that causes a cell to shrink.,A. isotonic; B. hypotonic; C. lysis; D. hypertonic,D,hypertonic,Única
+26,89,"Identify the epithelial tissue made of a single layer of cube-shaped cells, often found in glands.",A. simple squamous; B. pseudostratified columnar; C. transitional; D. simple cuboidal,D,simple cuboidal,Única
+26,90,"Which tissue consists of multiple layers of flat cells, providing protection against abrasion?",A. simple columnar; B. simple squamous; C. stratified squamous; D. transitional,C,stratified squamous,Única
+26,91,"Which epithelial tissue consists of a single layer of flattened cells, ideal for diffusion?",A. simple squamous; B. simple columnar; C. stratified squamous; D. simple cuboidal,A,simple squamous,Única
+27,92,"Which epithelial tissue is a single layer of tall cells, often found in the digestive tract?",A. pseudostratified columnar; B. stratified squamous; C. simple columnar; D. simple cuboidal,C,simple columnar,Única
+27,93,"Identify the epithelial tissue that can stretch, found in the urinary bladder.",A. simple squamous; B. transitional; C. simple cuboidal; D. stratified squamous,B,transitional,Única
+27,94,Which tissue appears to have multiple layers but is actually a single layer of varying heights?,A. simple columnar; B. transitional; C. simple squamous; D. pseudostratified columnar,D,pseudostratified columnar,Única
+28,95,Identify the connective tissue that is rigid and forms the skeleton.,A. Hyaline cartilage; B. Bone (osseous); C. Reticular; D. Blood (vascular),B,Bone (osseous),Única
+28,96,Which tissue stores fat and acts as an insulator?,A. Fibroblasts; B. osteocyte; C. Adipose; D. Collagen fibers,C,Adipose,Única
+28,97,What connective tissue provides smooth surfaces for joint movement?,A. Dense regular; B. Elastic fibers; C. RBC; D. Hyaline cartilage,D,Hyaline cartilage,Única
+28,98,Which connective tissue has a fluid matrix and transports substances throughout the body?,A. Blood (vascular); B. Loose (areolar); C. Dense regular; D. Adipose,A,Blood (vascular),Única
+29,99,"Which connective tissue has tightly packed collagen fibers running in the same direction, found in tendons?",A. Loose (areolar); B. Reticular; C. Dense regular; D. Elastic fibers,C,Dense regular,Única
+29,100,Identify the mature cell type found in cartilage.,A. osteocyte; B. chondrocyte; C. platelets; D. Reticular fibers,B,chondrocyte,Única
+29,101,Which cell fragments are involved in blood clotting?,A. RBC; B. WBC; C. Collagen fibers; D. platelets,D,platelets,Única
+29,102,Which cell type is found within the lacunae of bone?,A. osteocyte; B. chondrocyte; C. Fibroblasts; D. WBC,A,osteocyte,Única
+30,103,Which muscle tissue is involuntary and found in the walls of hollow organs?,A. skeletal; B. cardiac; C. smooth; D. stratified squamous,C,smooth,Repetida (2 veces)
+30,104,Identify the muscle tissue that is involuntary and found only in the heart.,A. smooth; B. cardiac; C. skeletal; D. neuroglia,B,cardiac,Única
+30,105,Which muscle tissue is voluntary and attached to bones?,A. cardiac; B. smooth; C. transitional; D. skeletal,D,skeletal,Única
